@@ -2,7 +2,7 @@
 //Space Complexity: O(1)
 class LinkedList 
 { 
-    Node head; // head of linked list 
+    Node head; //Head of linked list
   
     /* Linked list node */
     class Node 
